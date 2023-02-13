@@ -1,0 +1,25 @@
+{
+  "cookiecutter": {
+    "codeowner_github_usernames": "@smith-ntc",
+    "full_name": "Network to Code, LLC",
+    "email": "info@networktocode.com",
+    "github_org": "nautobot",
+    "nautobot_app_name": "my_nautobot_app",
+    "verbose_name": "My Nautobot App",
+    "nautobot_app_slug": "my-nautobot-app",
+    "project_slug": "nautobot-app-my-nautobot-app",
+    "repo_url": "https://github.com/nautobot/nautobot-app-my-nautobot-app",
+    "base_url": "my-nautobot-app",
+    "min_nautobot_version": "1.5.7",
+    "nautobot_version": "latest",
+    "camel_name": "MyNautobotApp",
+    "project_short_description": "My Nautobot App",
+    "version": "0.1.0",
+    "model_class_name": "None",
+    "open_source_license": "Apache-2.0",
+    "docs_base_url": "https://docs.nautobot.com",
+    "docs_nautobot_app_url": "https://docs.nautobot.com/projects/my-nautobot-app/en/latest",
+    "_template": ".",
+    "_output_dir": "/Users/sergey/ntc/cookiecutter-nautobot-app-develop"
+  }
+}
